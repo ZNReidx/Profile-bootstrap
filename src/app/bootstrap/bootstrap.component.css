@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+  }
+  .profile-container {
+    padding: 60px 10px 0;
+  }
+  .profile-img {
+    width: 150px;
+    height: 150px;
+  }
+  .highlight img {
+    width: 100px;
+    height: 100px;
+  }
+  .post img {
+    width: 100%;
+    height: auto;
+  }
+  .mr-4{
+    width: 600px;
+    
+  }
+  .mr-4 img{
+    width: 90px;
+    height: 90px;
+  }
